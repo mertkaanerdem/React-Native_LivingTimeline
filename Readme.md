@@ -12,13 +12,9 @@ We are developers from **Kodluyoruz Bootcamp** and we are trying a few beauty th
 </p>
 <br />
 
-|            Giriş Ekranı             |              Kayıt Ekranı              |             Kayıt Olma İşlemi              |
-| :---------------------------------: | :------------------------------------: | :----------------------------------------: |
-| ![Login](screenshots/Login.png '1') | ![Sign Up](screenshots/SignUp.png '2') | ![Sign Up](screenshots/SignUpDone.png '3') |
-
-|          Timeline Ekranı           |          Favorilere Ekleme İşlemi          |           Favoriler Ekranı            |
-| :--------------------------------: | :----------------------------------------: | :-----------------------------------: |
-| ![Login](screenshots/Timeline.png) | ![Sign Up](screenshots/AddToFavorites.png) | ![Sign Up](screenshots/Favorites.png) |
+|            Giriş Ekranı             |              Kayıt Ekranı              |             Kayıt Olma İşlemi              |          Timeline Ekranı           |          Favorilere Ekleme İşlemi          |           Favoriler Ekranı            |
+| :---------------------------------: | :------------------------------------: | :----------------------------------------: | :--------------------------------: | :----------------------------------------: | :-----------------------------------: |
+| ![Login](screenshots/Login.png '1') | ![Sign Up](screenshots/SignUp.png '2') | ![Sign Up](screenshots/SignUpDone.png '3') | ![Login](screenshots/Timeline.png) | ![Sign Up](screenshots/AddToFavorites.png) | ![Sign Up](screenshots/Favorites.png) |
 
 ### We are here for you!
 
